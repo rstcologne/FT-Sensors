@@ -1,3 +1,6 @@
+[<< Return](https://github.com/rstcologne/FT-Sensors)
+---
+
 # Proximity Sensor
 Case for common proximity sensors like this:
 
