@@ -17,5 +17,6 @@ which set the box size in FT size units. From there a top and bottom half part i
 Case for common proximity sensors:
 
 ![Common Chinese Proximity Sensor Module](https://github.com/rstcologne/FT-Sensors/blob/main/Images/FTPS-Sensor.jpg?raw=true|width=50px)
+<img src="https://github.com/rstcologne/FT-Sensors/blob/main/Images/FTPS-Sensor.jpg?raw=true" width=100/>
 
 
