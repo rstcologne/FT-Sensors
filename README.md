@@ -14,4 +14,6 @@ which set the box size in FT size units. From there a top and bottom half part i
 
 ## FT Proximity Sensor
 
-Case for common proximity sensors.
+Case for common proximity sensors:
+
+
