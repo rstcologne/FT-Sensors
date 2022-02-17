@@ -17,5 +17,4 @@ Parametric template file to start designing custom boxes. Primarily important ar
 which set the box size in FT size units. From there a top and bottom half part is generated which can then be modified to fit particular components. 
 
 ## Sensors
-
-* [Proximity Sensor](Proximity Sensor.md).
+* [Proximity Sensor](https://github.com/rstcologne/FT-Sensors/blob/main/Proximity%20Sensor.md)
